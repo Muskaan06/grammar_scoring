@@ -10,7 +10,7 @@ Given a text input (e.g., ASR transcript), the model predicts a **continuous gra
 * Grammar proficiency evaluation
 * Automated feedback systems
 
-The model is trained as a **regression task** using a Transformer encoder (e.g., DeBERTa-v3, BERT, RoBERTa).
+The model is trained as a **regression task** using a Transformer encoder (DeBERTa-v3).
 
 ---
 
